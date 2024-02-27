@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Conducting a security audit (fictional scenario)](https://github.com/theronchaplin/URL)
+  - [Conducting a security audit (fictional scenario)](https://github.com/theronchaplin/SecurityAudit)
   - [Hello World!](https://github.com/theronchaplin/URL)
 
 <h2>Certifications</h2>
