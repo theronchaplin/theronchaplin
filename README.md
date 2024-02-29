@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Document an incident (fictional scenario)](https://github.com/theronchaplin/DocumentIncident)
+  - [Applying NIST Cybersecurity Framework (fictional scenario)](https://github.com/theronchaplin/ApplyNIST)
   - [Conducting a security audit (fictional scenario)](https://github.com/theronchaplin/SecurityAudit)
 
 <h2>Certifications</h2>
@@ -12,6 +13,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
+- [Tutorial - Applying NIST Cybersecurity Framework (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Conducting a security audit (work in progress)](https://www.youtube.com/URL)
 
 
