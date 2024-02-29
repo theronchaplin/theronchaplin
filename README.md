@@ -10,7 +10,7 @@
 
   - [Google Cybersecurity Professional](https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Applying NIST Cybersecurity Framework (work in progress)](https://www.youtube.com/URL)
