@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Update a file through a Python algorithm](https://github.com/theronchaplin/PythonAlgorithm)
   - [Document an incident (fictional scenario)](https://github.com/theronchaplin/DocumentIncident)
   - [Analyze a vulnerable system](https://github.com/theronchaplin/VulnerableSystem)
   - [Apply filters to SQL queries](https://github.com/theronchaplin/SQLQuery)
@@ -15,6 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
+- [Update a file through a Python algorithm](https://www.youtube.com/URL)
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Analyze a vulnerable system](https://www.youtube.com/URL)
 - [Tutorial - Apply filters to SQL queries](https://www.youtube.com/URL)
