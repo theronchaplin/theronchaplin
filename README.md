@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Update a file through a Python algorithm](https://github.com/theronchaplin/PythonAlgorithm)
-  - [Document an incident (fictional scenario)](https://github.com/theronchaplin/DocumentIncident)
+  - [Document an incident](https://github.com/theronchaplin/DocumentIncident)
   - [Analyze a vulnerable system](https://github.com/theronchaplin/VulnerableSystem)
   - [Apply filters to SQL queries](https://github.com/theronchaplin/SQLQuery)
   - [Use Linux commands to manage file permissions](https://github.com/theronchaplin/LinuxCommands)
-  - [Applying NIST Cybersecurity Framework (fictional scenario)](https://github.com/theronchaplin/ApplyNIST)
-  - [Conducting a security audit (fictional scenario)](https://github.com/theronchaplin/SecurityAudit)
+  - [Applying NIST Cybersecurity Framework](https://github.com/theronchaplin/ApplyNIST)
+  - [Conducting a security audit](https://github.com/theronchaplin/SecurityAudit)
 
 <h2>Certifications</h2>
 
@@ -16,10 +16,10 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Tutorial - Update a file through a Python algorithm](https://www.youtube.com/URL)
+- [Tutorial - Update a file through a Python algorithm (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
-- [Tutorial - Analyze a vulnerable system](https://www.youtube.com/URL)
-- [Tutorial - Apply filters to SQL queries](https://www.youtube.com/URL)
+- [Tutorial - Analyze a vulnerable system (work in progress)](https://www.youtube.com/URL)
+- [Tutorial - Apply filters to SQL queries (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Use Linux commands to manage file permissions (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Applying NIST Cybersecurity Framework (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Conducting a security audit (work in progress)](https://www.youtube.com/URL)
