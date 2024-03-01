@@ -16,7 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Update a file through a Python algorithm](https://www.youtube.com/URL)
+- [Tutorial - Update a file through a Python algorithm](https://www.youtube.com/URL)
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Analyze a vulnerable system](https://www.youtube.com/URL)
 - [Tutorial - Apply filters to SQL queries](https://www.youtube.com/URL)
