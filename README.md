@@ -22,7 +22,7 @@
 - [Tutorial - Apply filters to SQL queries (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Use Linux commands to manage file permissions (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Applying NIST Cybersecurity Framework (work in progress)](https://www.youtube.com/URL)
-- [Tutorial - Conducting a security audit (work in progress)](https://www.youtube.com/URL)
+- [Tutorial - Conducting a security audit](https://youtu.be/gnAeU3vSNAs)
 
 
 <h2> 🤳 Connect with me:</h2>
