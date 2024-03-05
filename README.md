@@ -20,7 +20,7 @@
 - [Tutorial - Document an incident (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Analyze a vulnerable system (work in progress)](https://www.youtube.com/URL)
 - [Tutorial - Apply filters to SQL queries (work in progress)](https://www.youtube.com/URL)
-- [Tutorial - Use Linux commands to manage file permissions (work in progress)](https://www.youtube.com/URL)
+- [Tutorial - Use Linux commands to manage file permissions](https://youtu.be/m_jjfZpxq1I)
 - [Tutorial - Applying NIST Cybersecurity Framework](https://youtu.be/aw0lRTLB790)
 - [Tutorial - Conducting a security audit](https://youtu.be/gnAeU3vSNAs)
 
