@@ -16,7 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Tutorial - Update a file through a Python algorithm (work in progress)](https://www.youtube.com/URL)
+- [Tutorial - Update a file through a Python algorithm](https://youtu.be/yi9wTrEUIH8)
 - [Tutorial - Apply filters to SQL queries](https://youtu.be/Yqom7tpfE8U)
 - [Tutorial - Use Linux commands to manage file permissions](https://youtu.be/m_jjfZpxq1I)
 - [Tutorial - Applying NIST Cybersecurity Framework](https://youtu.be/aw0lRTLB790)
