@@ -1,4 +1,6 @@
-<h1>Hi, I'm Theron! <br/><a href="https://www.linkedin.com/in/theronchaplin/">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Theron! <br/><a href="https://www.linkedin.com/in/theronchaplin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
