@@ -1,7 +1,7 @@
 # Hello, I'm Theron Chaplin
 <a href="https://www.linkedin.com/in/theronchaplin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am the sum of my experiences. Working in manufacturing taught me the importance of safety, precision, and responsibility. Working in television gave me valuable experience in problem-solving, teamwork, and clear communication. Working in animation created a mindset where I could be more creative and open to new ideas. These skills, experiences, and values will make me successful as I look for entry-level roles in Cybersecurity.
+IT and cybersecurity professional with a proven track record in securing information, automating processes, and resolving complex issues. Leveraging industry best practices and advanced tools to optimize network security and build resilient digital infrastructure. Driven by a passion to collaborate and apply innovative solutions to protect your organization's critical assets.
 
 ### Cybersecurity Projects:
 
