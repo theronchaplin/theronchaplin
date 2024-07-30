@@ -15,8 +15,9 @@ IT and cybersecurity professional with a proven track record in securing informa
 
 ### Certifications
 
-  - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional--4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white">
-  - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional--4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white">
+  - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20Security+-red">
+  - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue">
+  - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue">
 
 ### YouTube Videos
 
