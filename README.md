@@ -6,6 +6,7 @@ IT and cybersecurity professional with a proven track record in securing informa
 ### Certifications
 
   - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20Security+-red">
+  - <a href="https://www.credly.com/badges/a1f6e2b4-1527-4cf6-aa5e-f2f8f2f37080/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Cybersecurity-blue">
   - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue">
   - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue">
 
@@ -28,6 +29,19 @@ decryption keys.
   - Helped identify and report security threats such as phishing
   - Analyzed and identified which areas of the business needed more robust security training and
 implemented training courses and procedures for those teams
+
+
+### Google Cloud Cybersecurity Labs:
+
+  - Access a Firewall and Create a Rule
+  - Identify Vulnerabilities and Remediation Techniques
+  - Change Firewall Rules Using Terraform and Cloud Shell
+  - Analyze the Security of a Container
+  - Create Symmetric and Asymmetric Keys
+  - Explore False Positives Through Incident Detection
+  - Analyze Audit Logs Using BigQuery
+  - Recover VMs with Google Backup and DR Service
+  - Capstone Project: Respond and Recover From a Data Breach
 
 
 ### Google IT Support Professional Labs:
