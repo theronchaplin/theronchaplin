@@ -1,7 +1,8 @@
 # Hello, I'm Theron Chaplin
 <a href="https://www.linkedin.com/in/theronchaplin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT and cybersecurity professional with a proven track record in securing information, automating processes, and resolving complex issues. Leveraging industry best practices and advanced tools to optimize network security and build resilient digital infrastructure. Driven by a passion to collaborate and apply innovative solutions to protect your organization's critical assets.
+IT Specialist with a strong foundation in information security and a proven ability to implement effective IT solutions. Skilled in troubleshooting technical issues, automating processes, and maintaining network infrastructure. Committed to protecting sensitive data and ensuring system reliability through a proactive and collaborative approach.
+
 
 ### Certifications
 
