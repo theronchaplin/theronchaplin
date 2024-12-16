@@ -1,8 +1,7 @@
-# Hello, I'm Theron Chaplin
+# Hello, I'm Theron Chaplin, an IT Specialist
 <a href="https://www.linkedin.com/in/theronchaplin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT Specialist with a strong foundation in information security and a proven ability to implement effective IT solutions. Skilled in troubleshooting technical issues, automating processes, and maintaining network infrastructure. Committed to protecting sensitive data and ensuring system reliability through a proactive and collaborative approach.
-
 
 ### Certifications
 
@@ -11,8 +10,20 @@ IT Specialist with a strong foundation in information security and a proven abil
   - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue">
   - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue">
 
+<br />
+<h2> Information Technology Projects:</h2>
 
-### Forage Security Job Simulations:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<br />
+<h2> Forage Security Job Simulations:</h2> 
+
 #### *Datacom Cybersecurity Job Simulation on Forage - July 2024*
   - Completed a simulation focused on how Datacom's cybersecurity team helps protect its clients
   - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining
@@ -31,8 +42,8 @@ decryption keys.
   - Analyzed and identified which areas of the business needed more robust security training and
 implemented training courses and procedures for those teams
 
-
-### Google Cloud Cybersecurity Labs:
+<br />
+<h2> Google Cloud Cybersecurity Labs:</h2>
 
   - Access a Firewall and Create a Rule
   - Identify Vulnerabilities and Remediation Techniques
@@ -44,8 +55,8 @@ implemented training courses and procedures for those teams
   - Recover VMs with Google Backup and DR Service
   - Capstone Project: Respond and Recover From a Data Breach
 
-
-### Google IT Support Professional Labs:
+<br />
+<h2> Google IT Support Professional Labs:</h2>
 
   - Install, Update, and Remove Software in Windows/Linux
   - File/Folder Permissions Windows/Linux
@@ -55,8 +66,8 @@ implemented training courses and procedures for those teams
   - Managing Services in Windows/Linux
   - Utilizing Active Directory
 
-
-### Google Cybersecurity Professional Labs:
+<br />
+<h2> Google Cybersecurity Professional Labs:</h2>
 
   - [Update a file through a Python algorithm](https://github.com/theronchaplin/PythonAlgorithm)
   - [Document an incident](https://github.com/theronchaplin/DocumentIncident)
@@ -66,7 +77,8 @@ implemented training courses and procedures for those teams
   - [Applying NIST Cybersecurity Framework](https://github.com/theronchaplin/ApplyNIST)
   - [Conducting a security audit](https://github.com/theronchaplin/SecurityAudit)
 
-### YouTube Videos
+<br />
+<h2> YouTube Videos</h2>
 
 - [Tutorial - Update a file through a Python algorithm](https://youtu.be/yi9wTrEUIH8)
 - [Tutorial - Apply filters to SQL queries](https://youtu.be/Yqom7tpfE8U)
