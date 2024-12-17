@@ -15,6 +15,8 @@ IT Specialist with a strong foundation in information security and a proven abil
 
 - <b>Microsoft Azure Basics</b>
   - [Microsoft Azure: Creating & Managing Resources](https://github.com/theronchaplin/azure-basics)
+- <b>Microsoft Azure Networking</b>
+  - [Microsoft Azure: Virtual Machines & Networking](https://github.com/theronchaplin/azure-networking)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
