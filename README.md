@@ -5,10 +5,11 @@ IT Specialist with a strong foundation in information security and a proven abil
 
 ### Certifications
 
-  - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CompTIA%20Security+-red"></a>
-  - <a href="https://www.credly.com/badges/a1f6e2b4-1527-4cf6-aa5e-f2f8f2f37080/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Cybersecurity-blue">
-  - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue">
-  - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue">
+  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Visit Example</a>
+  - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20Security+-red"></a>
+  - <a href="https://www.credly.com/badges/a1f6e2b4-1527-4cf6-aa5e-f2f8f2f37080/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Cybersecurity-blue"></a>
+  - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue"></a>
+  - <a href="https://www.credly.com/badges/8ce02f84-c459-4217-b4dd-4cf48e16acfe/linked_in_profile/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue"></a>
 
 <br />
 <h2> Information Technology Projects:</h2>
