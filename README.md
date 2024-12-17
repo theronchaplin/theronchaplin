@@ -5,7 +5,6 @@ IT Specialist with a strong foundation in information security and a proven abil
 
 ### Certifications
 
-  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Visit Example</a>
   - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20Security+-red"></a>
   - <a href="https://www.credly.com/badges/a1f6e2b4-1527-4cf6-aa5e-f2f8f2f37080/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Cybersecurity-blue"></a>
   - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue"></a>
@@ -14,6 +13,8 @@ IT Specialist with a strong foundation in information security and a proven abil
 <br />
 <h2> Information Technology Projects:</h2>
 
+- <b>Microsoft Azure Basics</b>
+  - [Microsoft Azure: Creating & Managing Resources](https://github.com/theronchaplin/azure-basics)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
