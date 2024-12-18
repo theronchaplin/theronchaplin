@@ -22,6 +22,11 @@ IT Specialist with a strong foundation in information security and a proven abil
   - [osTicket: Prerequisites and Installation](https://github.com/theronchaplin/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/theronchaplin/osticket-config)
   - [osTicket: Using the Ticketing System](https://github.com/theronchaplin/osticket-ticket-lifecycle)
+- <b>Active Directory</b>
+  - [Preparing AD Infrastructure in Azure](https://github.com/theronchaplin/ad-infrastructure)
+  - [Deploying Active Directory](https://github.com/theronchaplin/ad-deploy)
+  - [Creating Users with Powershell](https://github.com/theronchaplin/ad-create-users)
+  - [Group Policy & Managing Accounts](https://github.com/theronchaplin/ad-manage)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/theronchaplin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/theronchaplin/azure-network-protocols)
