@@ -23,8 +23,8 @@ IT Specialist with a strong foundation in information security and a proven abil
   - [osTicket: Configuration](https://github.com/theronchaplin/osticket-config)
   - [osTicket: Using the Ticketing System](https://github.com/theronchaplin/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/theronchaplin/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/theronchaplin/azure-network-protocols)
 <br />
 <br />
 
