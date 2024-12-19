@@ -27,6 +27,8 @@ IT Specialist with a strong foundation in information security and a proven abil
   - [Deploying Active Directory](https://github.com/theronchaplin/ad-deploy)
   - [Creating Users with Powershell](https://github.com/theronchaplin/ad-create-users)
   - [Group Policy & Managing Accounts](https://github.com/theronchaplin/ad-manage)
+- <b>DNS</b>
+  - [Practice & Understanding DNS](https://github.com/theronchaplin/dns-practice)
 <br />
 <br />
 
