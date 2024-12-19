@@ -29,6 +29,8 @@ IT Specialist with a strong foundation in information security and a proven abil
   - [Group Policy & Managing Accounts](https://github.com/theronchaplin/ad-manage)
 - <b>DNS</b>
   - [Practice & Understanding DNS](https://github.com/theronchaplin/dns-practice)
+- <b>Network File Shares & Permissions</b>
+  - [Managing Network File Shares & Permissions](https://github.com/theronchaplin/file-share-permissions)
 <br />
 <br />
 
