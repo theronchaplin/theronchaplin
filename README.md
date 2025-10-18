@@ -6,7 +6,7 @@ IT Specialist with a strong foundation in information security and a proven abil
 ### Certifications
   - <a href="https://www.credly.com/badges/3e66d293-f02e-4afb-910e-0df588081e11/public_url"><img src="https://img.shields.io/badge/CompTIA%20Network+-red"></a>
   - <a href="https://learn.microsoft.com/api/credentials/share/en-us/TheronChaplin-6788/F9BCD07618F727E9?sharingId=AEC3FAB891BB31EA"><img src="https://img.shields.io/badge/MS-900-blue"></a>
-  - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20A+-red"></a>
+  - <a href="https://www.credly.com/badges/d12432b2-15f1-4082-8f45-724805e95593/public_url"><img src="https://img.shields.io/badge/CompTIA%20A+-red"></a>
   - <a href="https://www.credly.com/badges/686c3003-4bc5-48b4-9a70-4b1454436f6a/linked_in_profile"><img src="https://img.shields.io/badge/CompTIA%20Security+-red"></a>
   - <a href="https://www.credly.com/badges/a1f6e2b4-1527-4cf6-aa5e-f2f8f2f37080/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Cybersecurity-blue"></a>
   - <a href="https://www.credly.com/badges/47995c78-77fd-45f8-8428-9c5a075453fd/linked_in_profile"><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-blue"></a>
